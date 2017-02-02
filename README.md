@@ -1,5 +1,5 @@
-# Mantle Swift Example
-Example use Mantle is Swift project. 
+# Mantle in Swift
+Example use Mantle in Swift project. 
 
 ## Mantle Use Example
 Mantle use example in:
