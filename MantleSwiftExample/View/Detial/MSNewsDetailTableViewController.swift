@@ -101,7 +101,7 @@ final class MSNewsDetailTableViewController: UITableViewController {
     }
 }
 
-//MARK: - RYStoryboardInstanceable -
+// MARK: - RYStoryboardInstanceable -
 extension MSNewsDetailTableViewController: RYStoryboardInstanceable {
     internal static var storyboardName: RYStoryboard = .main
 }
