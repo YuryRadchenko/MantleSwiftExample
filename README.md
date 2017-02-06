@@ -7,9 +7,10 @@ Mantle use example in:
 - MSNews.swift
 
 ## Getting started
-1. Install Carthage 
+1. Clone or download MantleSwiftExample
+2. Install Carthage 
 https://github.com/Carthage/Carthage
-2. Install frameworks: Mantle, Alamofire, SwiftyJSON
+3. Install frameworks: Mantle, Alamofire, SwiftyJSON
 ```
 $ cd project_dir
 $ carthage update --platform iOS
